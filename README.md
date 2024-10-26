@@ -1,1 +1,1 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=neekopat&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![novatorem](https://novatorem-phi-seven.vercel.app/api/spotify/?background_color=0000000&border_color=0000000)
